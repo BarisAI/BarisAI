@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BarisAI
+- 👋 Hi, I’m @aterkinAI
 - 👀 I’m interested in AI and new generation tech.
 - 🌱 I’m currently learning Pyhton
 <!---
