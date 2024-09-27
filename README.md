@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aterkinAI
+- 👋 Hi, I’m Baris Surmelioglu
 - 👀 I’m interested in AI and new generation tech.
 - 🌱 I’m currently studying at Poznan University of Technology
 <!---
